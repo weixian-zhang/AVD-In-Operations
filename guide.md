@@ -20,6 +20,9 @@ https://github.com/hardeights/RDS-Templates/blob/master/wvd-templates/Create%20a
 https://rbnmk.net/2021/08/09/using-biceps-loadtextcontent-for-azure-image-builder/
 https://github.com/rbnmk/bicep-loadcontent-image-builder/blob/main/example/vm-jumphost-deployment.bicep
 
+  -blog 2:
+   https://github.com/jamesatighe/AVD-BICEP
+
  
 
 6.	Test new v1.1.0 by signing in to new Session Host before releasing to users
