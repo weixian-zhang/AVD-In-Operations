@@ -23,6 +23,14 @@ https://github.com/rbnmk/bicep-loadcontent-image-builder/blob/main/example/vm-ju
   -blog 2:
    https://github.com/jamesatighe/AVD-BICEP
 
+
+   AIB definition
+     - arm
+     https://github.com/Azure/azvmimagebuilder/blob/main/quickquickstarts/2_Creating_a_Custom_Win_Shared_Image_Gallery_Image_from_SIG/helloImageTemplateforSIGfromWinSIG.json
+
+     - bicep  
+     https://github.com/rbnmk/bicep-loadcontent-image-builder/blob/975a4dd5bfba83d00c25ae51c6b642de73c12d8b/modules/vm-image-template-pwsh.bicep
+
  
 
 6.	Test new v1.1.0 by signing in to new Session Host before releasing to users
